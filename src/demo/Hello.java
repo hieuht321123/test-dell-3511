@@ -6,5 +6,10 @@ public class Hello {
 		int a =12;
 		int b = 4;
 		System.out.println(a+b);
+		System.out.println("hello asssss");
+		System.out.println("hello asssss");
+		System.out.println("hello asssss");
+		System.out.println("hello asssss");
+
 	}
 }
